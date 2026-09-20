@@ -1,2 +1,10 @@
 1789919154992:New Request Received
 1789919158938:New Request Received
+1789919308896: $(req.url)  New Request has been Received
+1789919311150: $(req.url)  New Request has been Received
+1789919386678: / New Request has been Received
+1789919387658: /favicon.ico New Request has been Received
+1789919435889: /about New Request has been Received
+1789919436771: /favicon.ico New Request has been Received
+1789919742187: /about New Request has been Received
+1789919746189: /favicon.ico New Request has been Received
